@@ -20,7 +20,7 @@ disqusShortname = ""
     keywords = "blog,developer,personal"
     info = "Full Stack Systemadministrator & Magier"
     avatarurl = "images/avatar.jpg"
-    gravatar = "bjoern@strate.at"
+    #gravatar = "bjoern@strate.at"
     footercontent = ""
 
     dateformat = "January 2, 2006"
@@ -49,7 +49,7 @@ disqusShortname = ""
     maxSeeAlsoItems = 5
 
     # Enable Twemoji
-    enableTwemoji = true
+    # enableTwemoji = true
 
     # Custom CSS
     custom_css = []
